@@ -1,2 +1,2 @@
 # Recommendation-engine
-# Craigslist, one of the largest online ads platform
+# Craigslist, one of the largest online ads platform, can have a simple soultion to boost sales and enhance customer experience. Unlike its competitors it misses a basic engine which can suggest a list of complimentary products on the searched product webpage. In this project we have built a simple recoomendation engine using Amazon suugested products as reference and tools, libraies and models like beautiful soup, similarity measures, random forest and LDA for topic modelling.
