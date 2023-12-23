@@ -7,4 +7,4 @@ Craigslist faces several challenges related to the lack of a sophisticated recom
 
 # Project flow diagram
 ![image](https://github.com/Sohansahoo5/Recommendation-engine/assets/154456487/88b1567d-73d2-4dcf-a4a6-c2e51ae3c13e)
-** For detail report please refer to project report pdf file.
+** For detailed understanding and analysis, please refer to project report pdf file.
